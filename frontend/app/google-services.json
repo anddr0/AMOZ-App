@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51440805312",
+    "project_id": "amoz-439114",
+    "storage_bucket": "amoz-439114.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51440805312:android:83864690afb2098d025425",
+        "android_client_info": {
+          "package_name": "com.example.amoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51440805312-f10kv4m9i3b4ir0v9vcejtl9301kipq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amoz",
+            "certificate_hash": "ede378c25adf9ed296bfae2ee3b0daf1859ddc29"
+          }
+        },
+        {
+          "client_id": "51440805312-7aq0a0kn9iqs21raedh7i6ihppbs63nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxi8QCYixqw4qT9gZV-2YayW3krOURJS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51440805312-7aq0a0kn9iqs21raedh7i6ihppbs63nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

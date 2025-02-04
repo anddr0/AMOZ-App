@@ -1,0 +1,324 @@
+<resources>
+    <string name="app_name">Amoz</string>
+    <string name="email_pattern">[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}</string>
+    <string name="phone_pattern">^[+0-9]{9,15}$</string>
+    <string name="more">More</string>
+
+    // --------------------- Screens names ---------------------
+    <string name="home_screen">Home</string>
+    <string name="products_screen">Products</string>
+    <string name="orders_screen">Orders</string>
+    <string name="company_screen">Company</string>
+    <string name="more_screen">More</string>
+
+    <string name="settings_screen">Settings</string>
+    <string name="faq_screen">FAQ</string>
+    <string name="about_screen">About App</string>
+    <string name="support_contact_screen">Support and Contact</string>
+
+    <string name="profile_screen">Profile</string>
+    <string name="profile_edit_screen">Edit Profile</string>
+
+    <string name="orders_add_edit_screen">Manage order</string>
+
+    <string name="entry_screen">Entry</string>
+    <string name="register_screen">Register</string>
+    <string name="register_image_screen">Add an image</string>
+
+    <string name="company_create_screen">Create a company</string>
+    <string name="no_company_screen">Company invites</string>
+
+    <string name="company_address_screen">Address</string>
+    <string name="company_workers_screen">Employees</string>
+    <string name="company_customers_screen">Customers</string>
+
+    // --------------------- Home ---------------------
+    <string name="home_card_revenues">Revenues</string>
+    <string name="home_card_revenues_total">Total revenues:</string>
+    <string name="home_card_sells">Sells</string>
+    <string name="home_card_sells_total">Total sells</string>
+    <string name="home_card_new_orders">New orders</string>
+    <string name="home_card_new_orders_total">Total new orders:</string>
+
+    <string name="home_last_orders">Last orders:</string>
+
+    // --------------------- Entry ---------------------
+    <string name="entry_app_description">Easy product management in your warehouse</string>
+    <string name="entry_almost_ready">Almost ready! Just a few more details to go.</string>
+    <string name="entry_pick_image">Lastly, pick your profile picture!</string>
+
+    <string name="entry_sign_in_with_google">Sign in with Google</string>
+    <string name="entry_continue">Continue</string>
+    <string name="entry_create_an_account">Create account</string>
+    // --------------------- Profile ---------------------
+    <string name="profile_first_name">First name</string>
+    <string name="profile_last_name">Last name</string>
+    <string name="profile_full_name">Full name</string>
+    <string name="profile_email">Email</string>
+    <string name="email_optional">Email</string>
+    <string name="profile_phone_number">Phone number</string>
+    <string name="profile_sex">Sex</string>
+    <string name="profile_birth_date">Birth Date</string>
+    <string name="profile_employment_date">Employment Date</string>
+
+    <string name="profile_sign_out">Sign Out</string>
+    <string name="profile_edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    // --------------------- Products screen ---------------------
+    <string name="products_add_simple_product">Add simple product</string>
+    <string name="products_add_product">Add product template</string>
+    <string name="products_choose_product">Choose product template</string>
+    <string name="products_choose_product_variant">Choose product</string>
+    <string name="products_delete_product_template_confirm">Do you really want to delete:\n%1$s?</string>
+    <string name="products_categories_screen">Categories</string>
+    <string name="products_attributes_screen">Attributes</string>
+    <string name="products_stock_delivery_screen">Stock update</string>
+
+    <string name="product_name">Product name</string>
+    <string name="product_description">Product description</string>
+    <string name="product_price">Price</string>
+    <string name="product_brand">Product brand</string>
+    <string name="product_barcode">Product barcode</string>
+
+    <string name="product_unit">Product unit</string>
+    <string name="product_amount_in_stock">Amount in stock</string>
+    <string name="product_stock">Stock</string>
+
+    <string name="product_category">Product category</string>
+    <string name="product_category_choose">Choose product category</string>
+
+    <string name="product_template">Product template</string>
+    <string name="product_template_choose">Choose product template</string>
+
+    <string name="product_attributes">Product attributes</string>
+    <string name="product_attributes_enter_name">Attribute name</string>
+    <string name="product_attributes_choose_value">Enter your value</string>
+
+    <string name="product_attributes_add_attributes_name">Add name attribute</string>
+    <string name="product_attributes_add_attributes_name_value">Add name-value attribute</string>
+
+    <string name="product_template_delete">Delete product template</string>
+
+    // --------------------- Product Variants screen ---------------------
+    <string name="products_add_product_variant">Add product</string>
+    <string name="products_variant_of">Product of product tamplate:</string>
+    <string name="products_variant">Product:</string>
+    <string name="product_variant_set_as_main">Set as main product</string>
+
+    <string name="variant_stock">Stock</string>
+    <string name="variant_stock_amount">Amount available</string>
+    <string name="variant_stock_alarming_state">Alarming state</string>
+
+    <string name="variant_weight">Weight</string>
+    <string name="variant_weight_enable">Enable weight</string>
+    <string name="variant_weight_select_unit">Select unit</string>
+    <string name="variant_weight_enter_amount">Enter amount</string>
+
+    <string name="variant_dimensions">Dimensions</string>
+    <string name="variant_dimensions_enable">Enable dimensions</string>
+    <string name="variant_dimensions_height">Height</string>
+    <string name="variant_dimensions_width">Width</string>
+    <string name="variant_dimensions_length">Length</string>
+
+
+    // --------------------- Category Screen ---------------------
+    <string name="subcategories">Subcategories</string>
+
+    <string name="subcategory_name">Subcategory name</string>
+    <string name="category_name">Category name</string>
+
+    <string name="add_subcategory">Add subcategory</string>
+    <string name="add_category_title">Add category</string>
+    <string name="edit_category_title">Edit category</string>
+
+    <string name="select_category">Select</string>
+
+    // --------------------- Orders screen ---------------------
+    <string name="orders_status">Status</string>
+    <string name="orders_products">Products</string>
+    <string name="orders_customer">Customer</string>
+    <string name="orders_address">Address</string>
+    <string name="orders_shipping">Shipping</string>
+
+    <string name="orders_select_status">Select order status</string>
+    <string name="no_status_selected">No status selected</string>
+    <string name="orders_add_product">Add product</string>
+    <string name="orders_add_customer">Add customer details</string>
+    <string name="orders_add_address">Add address</string>
+    <string name="orders_change_shipment_address">Change shipping address</string>
+
+    <string name="orders_total_price">Total price</string>
+    <string name="orders_tracking_number">Tracking number (optional)</string>
+    <string name="orders_shipping_date">Shipping date (optional)</string>
+
+    <string name="add_new">Add new</string>
+    <string name="add_new_product">Add new product</string>
+    <string name="choose_a_customer">Choose a customer (optional)</string>
+    <string name="delete_a_customer">Delete a customer</string>
+    <string name="send_an_invoice">Send an invoice</string>
+    <string name="cant_send_invoice">Can\'t send an invoice, no email found</string>
+    <string name="send_an_invoice_sure">Are you sure you want to send an invoice?</string>
+    <string name="enter_quantity">Enter the amount</string>
+    <string name="quantity">Quantity</string>
+    <string name ="increase_quantity">Increase quantity</string>
+    <string name="decrease_quantity">Decrease quantity</string>
+    <string name="invalid_quantity_range">Please enter a quantity between %1$d and %2$d</string>
+    <string name="remove_product_from_order_title">Remove product from order</string>
+    <string name="remove_product_from_order_text">Are you sure you want to remove this product from the order?</string>
+
+    <string name="orders_create_an_order">Create an order</string>
+    <string name="orders_update_an_order">Update an order</string>
+
+    <string name="orders_created_from">Created from</string>
+    <string name="orders_created_to">Created to</string>
+    <string name="orders_sent_from">Sent</string>
+    <string name="orders_sent_to">Sent to</string>
+    // --------------------- Company screen ---------------------
+    <string name="company_logo">Company logo</string>
+    <string name="company_logo_change">Update company logo</string>
+    <string name="company_name">Company name</string>
+    <string name="company_change_image_successful">Company image changed</string>
+    <string name="company_screen_description">This is your company. Manage your employees, add customers and change all company data if you need.</string>
+    <string name="company_screen_description_owner">This is your company. Manage your employees, add customers and change all company data if you need.</string>
+    <string name="company_screen_description_regular">This is the company you work for. You can add clients, see all the necessary information about the company and its employees, if necessary.</string>
+    <string name="company_address">Company address</string>
+    <string name="company_number">Company number</string>
+
+
+    <string name="company_number_name">NIP</string>
+    <string name="company_number_additional">REGON</string>
+    <string name="company_number_additional_optional">REGON (optional)</string>
+
+    <string name="company_address_example">ul. Example, 9, New-York, 50–123</string>
+    <string name="company_employees_description">People that work with you</string>
+    <string name="company_customers_description">Your customer base</string>
+    <string name="company_number_description">0123456789</string>
+    <string name="company_number_additional_description" translatable="false">0123456789101</string>
+
+    <string name="company_employee_role">Role in company</string>
+    <string name="company_add_worker_button">Add employee</string>
+    <string name="company_add_worker_email_textfield">Employee\'s email</string>
+    <string name="company_add_worker_email_send_inv">Send invitation</string>
+    <string name="company_add_worker_invite_title">Invite new employee</string>
+    <string name="company_add_worker_invite_successful">Invitation successfully sent</string>
+    <string name="company_change_employment_date_successful">Employment date changed</string>
+
+    <string name="company_customers_b2b">B2B Customers</string>
+    <string name="company_customers_b2c">B2C Customers</string>
+    <string name="company_customers_add_customer">Add/Edit customer</string>
+    <string name="company_add_customer_successful">Customer successfully added</string>
+    <string name="company_update_customer_successful">Customer successfully updated</string>
+
+    <string name="company_no_company">There is nothing here yet…
+        Register your company or join existing one!</string>
+    <string name="accept_invitation_window_title">Accept invitation</string>
+    <string name="accept_invitation_window_text">Do you want to join this company?</string>
+    <string name="company_register">Register your company</string>
+    <string name="or_company_register">Or register your own company!</string>
+    <string name="your_company_invites">Your invites to companies:</string>
+
+    <string name="company_create_text">Tell us about your company!</string>
+    <string name="company_invitation_window_title">Invitation to the company</string>
+    <string name="company_invitation_window_text"> Do you want to join this company?</string>
+
+    // --------------------- Stock update ---------------------
+    <string name="empty_list_greeting">Add product to manage it\'s stock</string>
+    <string name="add_product_variant">Add product</string>
+
+
+    // --------------------- Address ---------------------
+    <string name="address_change_title">Change the address</string>
+    <string name="address_change_title_company">Change the company address</string>
+    <string name="street">Street</string>
+    <string name="house_number">House name/number</string>
+    <string name="apartment_number">Apartment number (optional)</string>
+    <string name="city">Town/city</string>
+    <string name="postal_code">Postal code</string>
+    <string name="country">Country</string>
+    <string name="additional_info">Additional information (optional)</string>
+
+    // --------------------- Other ---------------------
+    <string name="close">Close</string>
+    <string name="confirm">Confirm</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="action_undone">This action cannot be undone</string>
+    <string name="nothing_here">There is nothing here yet…</string>
+    <string name="add_image">Click to add image</string>
+
+
+    // --------------------- Filters ---------------------
+    <string name="apply_filters">Apply filters</string>
+    <string name="clear_filters">Clear filters</string>
+
+    <string name="price_from">Price from</string>
+    <string name="price_to">Price to</string>
+    <string name="creation_date_from">Creation from</string>
+    <string name="creation_date_to">Creation to</string>
+    <string name="sending_date_from">Sending from</string>
+    <string name="sending_date_to">Sending to</string>
+
+    <string name="sorting_type">Sorting type</string>
+    <string name="sorting_type_none">No sorting</string>
+
+    <string name="sorting_type_ascending_name">Ascending by name (A-z)</string>
+    <string name="sorting_type_descending_name">Descending by name (Z-a)</string>
+    <string name="sorting_type_ascending_price">Ascending by price (A-z)</string>
+    <string name="sorting_type_descending_price">Descending by price (Z-a)</string>
+    <string name="sorting_type_ascending_time_of_sending">Ascending by time of sending</string>
+    <string name="sorting_type_descending_time_of_sending">Descending by time of sending</string>
+    <string name="sorting_type_ascending_time_of_creation">Ascending by time of creation</string>
+    <string name="sorting_type_descending_time_of_creation">Descending by time of creation</string>
+
+    <string name="search_products_placeholder">Search products by name, vendor</string>
+    <string name="search_categories_placeholder">Search categories by name</string>
+    // --------------------- Settings ---------------------
+    <string name="currency">Currency</string>
+    <string name="currency_edit">Edit currency</string>
+    <string name="current_currency">Current currency</string>
+    <string name="default_currency">USD</string>
+
+    <string name="app_theme_mode_edit">Edit app theme</string>
+    <string name="select_app_theme">Select app theme</string>
+    // --------------------- FAQ ---------------------
+    <string name="faq_title">Frequently Asked Questions (FAQ)</string>
+
+    <string name="faq_question_1">What is the AMOZ app?</string>
+    <string name="faq_answer_1">AMOZ is a mobile application for managing orders, products, and employees in warehouses and wholesale companies. It simplifies management processes and increases work efficiency.</string>
+
+    <string name="faq_question_2">How do I add my company to the system?</string>
+    <string name="faq_answer_2">After registering, you can create a company profile by filling in the basic information. Then you can invite employees to collaborate in the system.</string>
+
+    <string name="faq_question_3">How do I add or edit employee information?</string>
+    <string name="faq_answer_3">You can edit employee information in the personnel management section. This is available for the company owner or users with the appropriate permissions.</string>
+
+    <string name="faq_question_4">How do I manage the product catalog?</string>
+    <string name="faq_answer_4">You can add, edit, and delete products and their variants. You can also configure product categories to make navigation through the catalog easier.</string>
+
+    <string name="faq_question_5">How are stock levels updated?</string>
+    <string name="faq_answer_5">Stock levels are automatically updated when orders are processed. You will also receive notifications if any product stock reaches a low level.</string>
+
+    <string name="faq_question_6">Which devices support the app?</string>
+    <string name="faq_answer_6">The app works on devices running Android, including smartphones and tablets. It supports both light and dark modes based on the device settings.</string>
+
+    <string name="faq_question_7">What should I do if I cannot log in?</string>
+    <string name="faq_answer_7">Make sure you are using the correct Google login credentials. If the issue persists, try resetting your password or contact technical support.</string>
+
+    <string name="faq_question_8">What information is required to place an order?</string>
+    <string name="faq_answer_8">To place an order, you need to provide the customer (B2B or B2C), the delivery address (if required), and generate an invoice that will be sent to the customer\'s email address.</string>
+
+    <string name="faq_question_9">Can I customize the app for my business?</string>
+    <string name="faq_answer_9">Yes, the app allows flexible customization of product catalogs, variants, and attributes, enabling you to tailor the system to your business needs.</string>
+
+    <string name="faq_question_10">How do I set up notifications for low stock levels?</string>
+    <string name="faq_answer_10">Low stock notifications are enabled by default and will be sent when the quantity of a product in stock reaches a minimum level.</string>
+    --------------------- About app ---------------------
+    <string name="about_app">Application version: 1.0 \nAutors: Andrii Drobitko, Łukasz Bielawski, Oleksii Adamenko, Mikołaj kwinta</string>
+
+    // --------------------- Error messages ---------------------
+    <string name="not_blank"> should not be blank</string>
+
+
+</resources>

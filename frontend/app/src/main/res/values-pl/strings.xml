@@ -1,0 +1,324 @@
+<resources>
+    <string name="app_name">Amoz</string>
+    <string name="email_pattern">[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}</string>
+    <string name="phone_pattern">^[+0-9]{9,15}$</string>
+    <string name="more">Więcej</string>
+
+
+     --------------------- Screens names ---------------------
+    <string name="home_screen">Główna</string>
+    <string name="products_screen">Produkty</string>
+    <string name="orders_screen">Zlecenia</string>
+    <string name="company_screen">Firma</string>
+    <string name="more_screen">Więcej</string>
+
+    <string name="settings_screen">Ustawienia</string>
+    <string name="faq_screen">FAQ</string>
+    <string name="about_screen">O aplikacji</string>
+    <string name="support_contact_screen">Wsparcie i kontakt</string>
+
+    <string name="profile_screen">Profil</string>
+    <string name="profile_edit_screen">Edytuj profil</string>
+
+    <string name="orders_add_edit_screen">Zarządzaj zamówieniem</string>
+
+    <string name="entry_screen">Wejście</string>
+    <string name="register_screen">Rejestracja</string>
+    <string name="register_image_screen">Dodaj obraz</string>
+
+    <string name="company_create_screen">Utwórz firmę</string>
+    <string name="no_company_screen">Zaproszenia do firmy</string>
+
+    <string name="company_address_screen">Adres</string>
+    <string name="company_workers_screen">Pracownicy</string>
+    <string name="company_customers_screen">Klienci</string>
+
+    // --------------------- Home ---------------------
+    <string name="home_card_revenues">Przychody</string>
+    <string name="home_card_revenues_total">Łączne przychody:</string>
+    <string name="home_card_sells">Sprzedaż</string>
+    <string name="home_card_sells_total">Łączna sprzedaż</string>
+    <string name="home_card_new_orders">Nowe zamówienia</string>
+    <string name="home_card_new_orders_total">Liczba nowych zamówień:</string>
+
+    <string name="home_last_orders">Ostatnie zamówienia: </string>
+
+     --------------------- Entry ---------------------
+    <string name="entry_app_description">Łatwe zarządzanie produktami w Twoim magazynie</string>
+    <string name="entry_almost_ready">Prawie gotowe! Jeszcze kilka szczegółów.</string>
+    <string name="entry_pick_image">Na koniec wybierz swoje zdjęcie profilowe!</string>
+
+    <string name="entry_sign_in_with_google">Zaloguj się przez Google</string>
+    <string name="entry_continue">Kontynuuj</string>
+    <string name="entry_create_an_account">Utwórz konto</string>
+     --------------------- Profile ---------------------
+    <string name="profile_first_name">Imię</string>
+    <string name="profile_last_name">Nazwisko</string>
+    <string name="profile_full_name">Pełne imię i nazwisko</string>
+    <string name="profile_email">E-mail</string>
+    <string name="email_optional">E-mail</string>
+    <string name="profile_phone_number">Numer telefonu</string>
+    <string name="profile_sex">Płeć</string>
+    <string name="profile_birth_date">Data urodzenia</string>
+    <string name="profile_employment_date">Data zatrudnienia</string>
+
+    <string name="profile_sign_out">Wyloguj się</string>
+    <string name="profile_edit_profile">Edytuj profil</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+
+     --------------------- Products screen ---------------------
+    <string name="products_add_simple_product">Dodaj prosty produkt</string>
+    <string name="products_add_product">Dodaj szablon produktu</string>
+    <string name="products_choose_product">Wybierz szablon produktu</string>
+    <string name="products_choose_product_variant">Wybierz produkt</string>
+    <string name="products_delete_product_template_confirm">Czy na pewno chcesz usunąć:\n%1$s?</string>
+    <string name="products_categories_screen">Kategorie</string>
+    <string name="products_attributes_screen">Atrybuty</string>
+    <string name="products_stock_delivery_screen">Aktualizacja stanu</string>
+
+    <string name="product_name">Nazwa produktu</string>
+    <string name="product_description">Opis produktu</string>
+    <string name="product_price">Cena</string>
+    <string name="product_brand">Marka produktu</string>
+    <string name="product_barcode">Kod kreskowy produktu</string>
+
+    <string name="product_unit">Jednostka produktu</string>
+    <string name="product_amount_in_stock">Ilość w magazynie</string>
+    <string name="product_stock">Stan</string>
+
+    <string name="product_category">Kategoria produktu</string>
+    <string name="product_category_choose">Wybierz kategorię produktu</string>
+
+    <string name="product_template">Szablon produktu</string>
+    <string name="product_template_choose">Wybierz szablon produktu</string>
+
+    <string name="product_attributes">Atrybuty produktu</string>
+    <string name="product_attributes_enter_name">Nazwa atrybutu</string>
+    <string name="product_attributes_choose_value">Wprowadź wartość</string>
+
+    <string name="product_attributes_add_attributes_name">Dodaj atrybut nazwy</string>
+    <string name="product_attributes_add_attributes_name_value">Dodaj atrybut nazwa-wartość</string>
+
+    <string name="product_template_delete">Usuń szablon produktu</string>
+
+     --------------------- Product Variants screen ---------------------
+    <string name="products_add_product_variant">Dodaj produkt</string>
+    <string name="products_variant_of">Produkt szablonu:</string>
+    <string name="products_variant">Produkt szablonu:</string>
+    <string name="product_variant_set_as_main">Ustaw jako główny produkt</string>
+
+    <string name="variant_stock">Stan</string>
+    <string name="variant_stock_amount">Dostępna ilość</string>
+    <string name="variant_stock_alarming_state">Stan alarmowy</string>
+
+    <string name="variant_weight">Waga</string>
+    <string name="variant_weight_enable">Włącz wagę</string>
+    <string name="variant_weight_select_unit">Wybierz jednostkę</string>
+    <string name="variant_weight_enter_amount">Wprowadź ilość</string>
+
+    <string name="variant_dimensions">Wymiary</string>
+    <string name="variant_dimensions_enable">Włącz wymiary</string>
+    <string name="variant_dimensions_height">Wysokość</string>
+    <string name="variant_dimensions_width">Szerokość</string>
+    <string name="variant_dimensions_length">Długość</string>
+
+
+     --------------------- Category Screen ---------------------
+    <string name="subcategories">Podkategorie</string>
+
+    <string name="subcategory_name">Nazwa podkategorii</string>
+    <string name="category_name">Nazwa kategorii</string>
+
+    <string name="add_subcategory">Dodaj podkategorię</string>
+    <string name="add_category_title">Dodaj kategorię</string>
+    <string name="edit_category_title">Edytuj kategorię</string>
+
+    <string name="select_category">Wybierz</string>
+
+     --------------------- Orders screen ---------------------
+    <string name="orders_status">Status</string>
+    <string name="orders_products">Produkty</string>
+    <string name="orders_customer">Klient</string>
+    <string name="orders_address">Adres</string>
+    <string name="orders_shipping">Wysyłka</string>
+
+    <string name="orders_select_status">Wybierz status zamówienia</string>
+    <string name="no_status_selected">Nie wybrano statusu</string>
+    <string name="orders_add_product">Dodaj produkt</string>
+    <string name="orders_add_customer">Dodaj dane klienta</string>
+    <string name="orders_add_address">Dodaj adres</string>
+    <string name="orders_change_shipment_address">Zmień adres wysyłki</string>
+
+    <string name="orders_total_price">Cena łączna</string>
+    <string name="orders_tracking_number">Numer śledzenia (opcjonalne)</string>
+    <string name="orders_shipping_date">Data wysyłki (opcjonalne)</string>
+
+    <string name="add_new">Dodaj nowy</string>
+    <string name="add_new_product">Dodaj nowy produkt</string>
+    <string name="choose_a_customer">Wybierz klienta (opcjonalne)</string>
+    <string name="delete_a_customer">Usuń klienta</string>
+    <string name="send_an_invoice">Wyślij fakturę</string>
+    <string name="cant_send_invoice">Nie można wysłać faktury, nie znaleziono adresu e-mail</string>
+    <string name="send_an_invoice_sure">Czy na pewno chcesz wysłać fakturę??</string>
+    <string name="enter_quantity">Wprowadź ilość</string>
+    <string name="quantity">Ilość</string>
+    <string name="increase_quantity">Zwiększ ilość</string>
+    <string name="decrease_quantity">Zmniejsz ilość</string>
+    <string name="invalid_quantity_range">Wprowadź ilość między %1$d a %2$d</string>
+    <string name="remove_product_from_order_title">Usuń produkt z zamówienia</string>
+    <string name="remove_product_from_order_text">Czy na pewno chcesz usunąć ten produkt z zamówienia?</string>
+
+    <string name="orders_create_an_order">Utwórz zamówienie</string>
+    <string name="orders_update_an_order">Zaktualizuj zamówienie</string>
+
+    <string name="orders_created_from">Utworzono od</string>
+    <string name="orders_created_to">Utworzono do</string>
+    <string name="orders_sent_from">Wysłano od</string>
+    <string name="orders_sent_to">Wysłano do</string>
+     --------------------- Company screen ---------------------
+    <string name="company_logo">Logo firmy</string>
+    <string name="company_logo_change">Zaktualizuj logo firmy</string>
+    <string name="company_name">Nazwa firmy</string>
+    <string name="company_change_image_successful">Obraz firmy zmieniony</string>
+    <string name="company_screen_description">To jest Twoja firma. Zarządzaj pracownikami, dodawaj klientów i zmieniaj dane firmy w razie potrzeby.</string>
+    <string name="company_screen_description_owner">To jest Twoja firma. Zarządzaj pracownikami, dodawaj klientów i zmieniaj dane firmy w razie potrzeby.</string>
+    <string name="company_screen_description_regular">To jest firma, w której pracujesz. Możesz dodawać klientów, zobaczyć wszystkie niezbędne informacje o firmie i jej pracownikach, jeśli to konieczne.</string>
+    <string name="company_address">Adres firmy</string>
+    <string name="company_number">Numer firmy</string>
+
+
+    <string name="company_number_name">NIP</string>
+    <string name="company_number_additional">REGON</string>
+    <string name="company_number_additional_optional">REGON (opcjonalnie)</string>
+
+    <string name="company_address_example">ul. Przykładowa, 9, Nowy Jork, 50–123</string>
+    <string name="company_employees_description">Osoby, które z Tobą pracują</string>
+    <string name="company_customers_description">Twoja baza klientów</string>
+    <string name="company_number_description">0123456789</string>
+
+    <string name="company_employee_role">Rola w firmie</string>
+    <string name="company_add_worker_button">Dodaj pracownika</string>
+    <string name="company_add_worker_email_textfield">E-mail pracownika</string>
+    <string name="company_add_worker_email_send_inv">Wyślij zaproszenie</string>
+    <string name="company_add_worker_invite_title">Zaproś nowego pracownika</string>
+    <string name="company_add_worker_invite_successful">Zaproszenie wysłane pomyślnie</string>
+    <string name="company_change_employment_date_successful">Data zatrudnienia zmieniona</string>
+
+    <string name="company_customers_b2b">Klienci B2B</string>
+    <string name="company_customers_b2c">Klienci B2C</string>
+    <string name="company_customers_add_customer">Dodaj/Edytuj klienta</string>
+    <string name="company_add_customer_successful">Klient dodany pomyślnie</string>
+    <string name="company_update_customer_successful">Klient zaktualizowany pomyślnie</string>
+
+    <string name="company_no_company">Jeszcze nic tu nie ma…
+Zarejestruj swoją firmę lub dołącz do istniejącej!</string>
+    <string name="accept_invitation_window_title">Zaakceptuj zaproszenie</string>
+    <string name="accept_invitation_window_text">Czy chcesz dołączyć do tej firmy?</string>
+    <string name="company_register">Zarejestruj swoją firmę</string>
+    <string name="or_company_register">Albo zarejestruj własną firmę!</string>
+    <string name="your_company_invites">Twoje zaproszenia do firm:</string>
+
+    <string name="company_create_text">Opowiedz nam o swojej firmie!</string>
+    <string name="company_invitation_window_title">Zaproszenie do firmy</string>
+    <string name="company_invitation_window_text"> Czy chcesz dołączyć do tej firmy?</string>
+
+     --------------------- Stock update ---------------------
+    <string name="empty_list_greeting">Dodaj produkt, aby zarządzać jego stanem</string>
+    <string name="add_product_variant">Dodaj produkt</string>
+
+
+     --------------------- Address ---------------------
+    <string name="address_change_title">Zmień adres</string>
+    <string name="address_change_title_company">Zmień adres firmy</string>
+    <string name="street">Ulica</string>
+    <string name="house_number">Nazwa/numer domu</string>
+    <string name="apartment_number">Numer mieszkania (opcjonalnie)</string>
+    <string name="city">Miasto</string>
+    <string name="postal_code">Kod pocztowy</string>
+    <string name="country">Kraj</string>
+    <string name="additional_info">Dodatkowe informacje (opcjonalnie)</string>
+
+     --------------------- Other ---------------------
+    <string name="close">Zamknij</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="action_undone">Tej akcji nie można cofnąć</string>
+    <string name="nothing_here">Tutaj jeszcze nic nie ma…</string>
+    <string name="add_image">Kliknij, aby dodać obraz</string>
+
+
+     --------------------- Filters ---------------------
+    <string name="apply_filters">Zastosuj filtry</string>
+    <string name="clear_filters">Wyczyść filtry</string>
+
+    <string name="price_from">Cena od</string>
+    <string name="price_to">Cena do</string>
+    <string name="creation_date_from">Utworzono od</string>
+    <string name="creation_date_to">Utworzono do</string>
+    <string name="sending_date_from">Wysyłka od</string>
+    <string name="sending_date_to">Wysyłka do</string>
+
+    <string name="sorting_type">Typ sortowania</string>
+    <string name="sorting_type_none">Bez sortowania</string>
+
+    <string name="sorting_type_ascending_name">Sortowanie rosnąco po nazwie (A-z)</string>
+    <string name="sorting_type_descending_name">Sortowanie malejąco po nazwie (Z-a)</string>
+    <string name="sorting_type_ascending_price">Sortowanie rosnąco po cenie (A-z)</string>
+    <string name="sorting_type_descending_price">Sortowanie malejąco po cenie (Z-a)</string>
+    <string name="sorting_type_ascending_time_of_sending">Sortowanie rosnąco po czasie wysłania</string>
+    <string name="sorting_type_descending_time_of_sending">Sortowanie malejąco po czasie wysłania</string>
+    <string name="sorting_type_ascending_time_of_creation">Sortowanie rosnąco po czasie utworzenia</string>
+    <string name="sorting_type_descending_time_of_creation">Sortowanie malejąco po czasie utworzenia</string>
+
+    <string name="search_products_placeholder">Wyszukaj produkty po nazwie, dostawcy</string>
+    <string name="search_categories_placeholder">Wyszukaj kategorie po nazwie</string>
+     --------------------- Settings ---------------------
+    <string name="currency">Waluta</string>
+    <string name="currency_edit">Edytuj walutę</string>
+    <string name="current_currency">Aktualna waluta</string>
+    <string name="default_currency">USD</string>
+
+    <string name="app_theme_mode_edit">Edytuj motyw aplikacji</string>
+    <string name="select_app_theme">Wybierz motyw aplikacji</string>
+
+    --------------------- FAQ ---------------------
+    <string name="faq_title">Najczęściej zadawane pytania (FAQ)</string>
+
+    <string name="faq_question_1">Co to jest aplikacja AMOZ?</string>
+    <string name="faq_answer_1">AMOZ to aplikacja mobilna służąca do zarządzania zamówieniami, produktami oraz pracownikami magazynów i firm hurtowych. Ułatwia procesy zarządzania i zwiększa efektywność pracy.</string>
+
+    <string name="faq_question_2">Jak dodać moją firmę do systemu?</string>
+    <string name="faq_answer_2">Po rejestracji możesz utworzyć profil firmy, wypełniając podstawowe dane. Następnie będziesz mógł zaprosić pracowników do współpracy w systemie.</string>
+
+    <string name="faq_question_3">Jak dodać lub edytować dane pracowników?</string>
+    <string name="faq_answer_3">Możesz edytować dane pracowników w sekcji zarządzania personelem. Jest to dostępne dla właściciela firmy lub użytkowników z odpowiednimi uprawnieniami.</string>
+
+    <string name="faq_question_4">Jak zarządzać katalogiem produktów?</string>
+    <string name="faq_answer_4">Możesz dodawać, edytować i usuwać produkty oraz ich warianty. Można także konfigurować kategorie produktów, aby ułatwić nawigację po katalogu.</string>
+
+    <string name="faq_question_5">Jak aktualizowane są stany magazynowe?</string>
+    <string name="faq_answer_5">Stany magazynowe są automatycznie aktualizowane podczas realizacji zamówień. Otrzymujesz również powiadomienia, gdy zapasy produktów osiągną zbyt niski poziom.</string>
+
+    <string name="faq_question_6">Na jakich urządzeniach działa aplikacja?</string>
+    <string name="faq_answer_6">Aplikacja działa na urządzeniach z systemem Android, w tym na smartfonach i tabletach. Obsługuje tryb jasny i ciemny, zależnie od ustawień urządzenia.</string>
+
+    <string name="faq_question_7">Co zrobić, jeśli nie mogę się zalogować?</string>
+    <string name="faq_answer_7">Upewnij się, że używasz poprawnych danych logowania Google. Jeśli problem się utrzymuje, spróbuj zresetować hasło lub skontaktuj się z pomocą techniczną.</string>
+
+    <string name="faq_question_8">Jakie dane są potrzebne do złożenia zamówienia?</string>
+    <string name="faq_answer_8">Aby złożyć zamówienie, musisz podać klienta (B2B lub B2C), adres dostawy (jeśli wymagany) oraz wystawić fakturę, która zostanie wysłana na adres e-mail klienta.</string>
+
+    <string name="faq_question_9">Czy mogę dostosować aplikację do mojego biznesu?</string>
+    <string name="faq_answer_9">Tak, aplikacja umożliwia elastyczne dostosowanie katalogów produktów, wariantów i atrybutów, co pozwala na dopasowanie systemu do potrzeb Twojego biznesu.</string>
+
+    <string name="faq_question_10">Jak ustawić powiadomienia o niskich stanach magazynowych?</string>
+    <string name="faq_answer_10">Powiadomienia o niskich stanach magazynowych są domyślnie włączone i będą wysyłane, gdy ilość produktu na magazynie osiągnie minimalny poziom.</string>
+    --------------------- About app ---------------------
+    <string name="about_app">Wersja aplikacji: 1.0 \nAutory: Andrii Drobitko, Łukasz Bielawski, Oleksii Adamenko, Mikołai Kwinta</string>.
+
+    --------------------- Error messages ---------------------
+    <string name="not_blank"> nie powinno być puste</string>
+
+</resources>
