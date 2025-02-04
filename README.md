@@ -6,15 +6,22 @@ It enables efficient management of product catalogs, employee data, inventory, a
 Built with flexibility in mind, AMOZ can be customized to suit various industries without the need for costly external configurations.
 
 ## Presentation and screenhots
-| **Login Page** | **Person Registration** |
-|:--------------:|:-----------------------:|
-| <img src="https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e" width="250" height="500"> | ![Screenshot_20241212_171637_Amoz](https://github.com/user-attachments/assets/886803e4-21ef-45de-b463-7819712a0ebe) |
+### Registration and login
+| **Login Page** | **Person Registration** | **Person Image Upload** | **Company Create Page** |
+|:--------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| <img src="https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/886803e4-21ef-45de-b463-7819712a0ebe" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/4f9c0bab-6750-4656-a61d-c1aa774e976d" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/8570378f-341a-40e4-b9e8-7d2284c2a72b" width="250" height="500"> | 
+
+| **Users' invates to companies** |
+|:-------------------------------:|
+| <img src="https://github.com/user-attachments/assets/1765c278-2da6-463c-9930-f979f75b674a" width="250" height="500"> | 
+
 ### Main Screens
-| **Home Page** | **Orders Page** | **Products Page** | **Product Details Page** |
+| **Home Page** | **Orders Page** | **Products Page** | **Company Page** |
 |:-------------:|:---------------:|:-----------------:|:------------------------:|
-| <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="250" height="500"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/c5bdc720-fc2f-4117-8832-59486546ab16" width="250" height="500"> |
+| <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="250" height="500"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/11476cbb-037a-44b1-80b0-fc37cc629596" width="250" height="500"> |
 
 
+<img src="" width="250" height="500"> | 
 
 ## Key Features
 - **Product and Inventory Management**: Customizable product templates and variants for various industries.
