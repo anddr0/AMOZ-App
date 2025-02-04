@@ -9,7 +9,7 @@ Built with flexibility in mind, AMOZ can be customized to suit various industrie
 ### Registration and login
 | **Login Page** | **Person Registration** | **Person Image Upload** | **Company Create Page** |
 |:--------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <img src="https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/886803e4-21ef-45de-b463-7819712a0ebe" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/4f9c0bab-6750-4656-a61d-c1aa774e976d" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/8570378f-341a-40e4-b9e8-7d2284c2a72b" width="250" height="500"> | 
+| <img src="https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e" width="250" height="400"> | <img src="https://github.com/user-attachments/assets/886803e4-21ef-45de-b463-7819712a0ebe" width="250" height="400"> | <img src="https://github.com/user-attachments/assets/4f9c0bab-6750-4656-a61d-c1aa774e976d" width="250" height="400"> | <img src="https://github.com/user-attachments/assets/8570378f-341a-40e4-b9e8-7d2284c2a72b" width="250" height="400"> | 
 
 | **Users' invates to companies** |
 |:-------------------------------:|
