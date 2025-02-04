@@ -31,8 +31,8 @@ Built with flexibility in mind, AMOZ can be customized to suit various industrie
 |<img src="https://github.com/user-attachments/assets/eb5287ac-6c89-43af-baaf-7d0aa88bd09b" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/d9c53cc5-4e6e-4948-a87b-a185a1e53273" width="200" height="400"> | 
 
 ### Employees
-| **Employees Page** | **Employees Profile** | **Product Add/Edit** | **Products filters** |
-|:------------------:|:---------------------:|:--------------------:|:--------------------:|
+| **Employees Page** | **Employees Profile** |
+|:------------------:|:---------------------:|
 | <img src="https://github.com/user-attachments/assets/e3d7fa31-b8d1-4662-a1a8-44dd545b1108" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/8211552e-4d47-48bb-bed9-67be51ca799c" width="200" height="400"> | 
 
 [Other in-app screenshots](https://drive.google.com/drive/folders/1zo0keVzVLiA7LEXQ02ocbTa1HbAdPZb8?usp=sharing)
