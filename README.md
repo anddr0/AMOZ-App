@@ -13,15 +13,29 @@ Built with flexibility in mind, AMOZ can be customized to suit various industrie
 
 | **Users' invates to companies** |
 |:-------------------------------:|
-| <img src="https://github.com/user-attachments/assets/1765c278-2da6-463c-9930-f979f75b674a" width="250" height="500"> | 
+| <img src="https://github.com/user-attachments/assets/1765c278-2da6-463c-9930-f979f75b674a" width="200" height="400"> | 
 
 ### Main Screens
 | **Home Page** | **Orders Page** | **Products Page** | **Company Page** |
-|:-------------:|:---------------:|:-----------------:|:------------------------:|
-| <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="250" height="500"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/11476cbb-037a-44b1-80b0-fc37cc629596" width="250" height="500"> |
+|:-------------:|:---------------:|:-----------------:|:----------------:|
+| <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="200" height="400"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/11476cbb-037a-44b1-80b0-fc37cc629596" width="200" height="400"> |
 
+### Products
+| **Product Template Add/Edit** | **Product Add/Edit** | **Product Add/Edit** | **Products filters** |
+|:-----------------------------:|:--------------------:|:--------------------:|:--------------------:|
+| <img src="https://github.com/user-attachments/assets/ec60bbc6-0811-49bb-bfdc-d73f35c7d88a" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/fcf8eb38-80b4-4f22-9bf9-fc8bc1362580" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/6ec6bd59-ad47-42b6-a0f0-0274bcf73e0e" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/a88a1178-baa5-468d-a8fe-1a4baf53462c" width="200" height="400"> | 
 
-<img src="" width="250" height="500"> | 
+### Orders
+| **Manage Order Page** | **Order Address Change** |
+|:---------------------:|:------------------------:|
+|<img src="https://github.com/user-attachments/assets/eb5287ac-6c89-43af-baaf-7d0aa88bd09b" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/d9c53cc5-4e6e-4948-a87b-a185a1e53273" width="200" height="400"> | 
+
+### Employees
+| **Employees Page** | **Employees Profile** | **Product Add/Edit** | **Products filters** |
+|:------------------:|:---------------------:|:--------------------:|:--------------------:|
+| <img src="https://github.com/user-attachments/assets/e3d7fa31-b8d1-4662-a1a8-44dd545b1108" width="200" height="400"> | <img src="https://github.com/user-attachments/assets/8211552e-4d47-48bb-bed9-67be51ca799c" width="200" height="400"> | 
+
+[Other in-app screenshots](https://drive.google.com/drive/folders/1zo0keVzVLiA7LEXQ02ocbTa1HbAdPZb8?usp=sharing)
 
 ## Key Features
 - **Product and Inventory Management**: Customizable product templates and variants for various industries.
