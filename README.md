@@ -9,7 +9,7 @@ Built with flexibility in mind, AMOZ can be customized to suit various industrie
 ### Main Screens
 | **Login Page** | **Home Page** | **Orders Page** | **Products Page** | **Product Details Page** |
 |:--------------:|:-------------:|:---------------:|:-----------------:|:------------------------:|
-| <img src="[https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967](https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e)" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="250" height="500"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/c5bdc720-fc2f-4117-8832-59486546ab16" width="250" height="500"> |
+| <img src="https://github.com/user-attachments/assets/a9244746-3488-43c4-a62f-587e26a58b7e" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/232b7596-5230-4499-ae73-0285e8b5d967" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/022a1d98-b7b7-4a1f-b8b6-2935d0ccd6bf" width="250" height="500"> |  <img src="https://github.com/user-attachments/assets/cc9f6ea1-966a-44e2-8709-7d432466d9c6" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/c5bdc720-fc2f-4117-8832-59486546ab16" width="250" height="500"> |
 
 
 ## Key Features
